@@ -7,9 +7,6 @@ The Blood Bank Management System is a Java-based desktop application designed to
 
 
 The Admin manages the overall system, including employee records, blood inventory, and registered user information. Donors can register, log in, and provide their blood details, helping to maintain updated blood stock information. Receivers can register, log in, and request blood based on availability and blood group.
-
-
-
 The application reduces manual paperwork, improves data accuracy, and ensures faster access to blood-related information. It is developed using Java and Java Swing for the graphical user interface and Oracle Database for secure data storage, demonstrating effective use of object-oriented programming and database connectivity.
 
 
