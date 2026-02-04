@@ -1,0 +1,4 @@
+106,Sandjida,22,Blood Collector,Female,0189987678,8080000
+107,Zunaid,30,Quality Checker,Female,01766786027,400000
+108,Salam,25,Tranfusion Specialist,Male,01988787878,800000
+103,sakibullah,30,Blood Doctor,,Male,01700833264
