@@ -1,8 +1,0 @@
-3123123,adasda ,sdasdasd,adasdad,22.5.11,4124234231432,Female,asdas@gmail.com,B,ctg,ctg
-3123123,adasda ,sdasdasd,adasdad,22.5.11,4124234231432,Female,asdas@gmail.com,B,dhaka,dhaka
-123123,asdasd,asdasd,asdasd,22.5.11,243124124124124,Male,dsad@gmail.com,B+,ctg,ctg
-101,t,a,b,1/9/2003,01700833263,Female,e,A-,e,e
-R20240518215340,,,,,,,,,,
-R20240519084458,,,,,,,,,,
-R20240519111245,,,,,,,,,,
-R20240611120926,,,,,,,,,,

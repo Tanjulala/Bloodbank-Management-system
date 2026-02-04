@@ -1,8 +1,0 @@
-A+,94,Available
-A-,68,Available
-B+,100,Available
-B-,26,Available
-AB+,43,Available
-AB-,11,Not Available
-O+,33,Available
-O-,7,Not Available
